@@ -2,8 +2,9 @@ package lg2a2.luana.projetoSuap;
 
 public class Aluno {
 	
-	public static void main (String[] args) {
-		
-	}
+	String prontuario;
+	String cpf;
+	String nome;
+	String email;
 	
 }

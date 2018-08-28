@@ -18,5 +18,4 @@ public class DadosAluno {
 	String getEmail() {
 		return email;
 	}
-	
 }

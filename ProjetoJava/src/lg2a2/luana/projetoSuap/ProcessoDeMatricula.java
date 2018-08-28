@@ -19,5 +19,4 @@ public class ProcessoDeMatricula {
 	void setCurso(Curso curso) {
 		this.curso = curso;
 	}
-	
 }

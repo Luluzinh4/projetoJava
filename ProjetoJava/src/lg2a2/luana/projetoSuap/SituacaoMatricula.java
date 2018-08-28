@@ -15,5 +15,4 @@ public class SituacaoMatricula {
 	void aluno_cadastrado_curso() {
 		
 	}
-	
 }

@@ -21,5 +21,4 @@ public class ComprovanteDeMatricula {
 	void emitirComprovante(String prontuario, DadosAluno dados) {
 		
 	}
-	
 }

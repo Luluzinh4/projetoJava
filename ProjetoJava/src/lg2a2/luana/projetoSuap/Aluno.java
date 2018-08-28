@@ -22,4 +22,5 @@ public class Aluno {
 	String getEmail() {
 		return email;
 	}
+	
 }

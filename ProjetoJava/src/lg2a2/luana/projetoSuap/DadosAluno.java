@@ -2,8 +2,20 @@ package lg2a2.luana.projetoSuap;
 
 public class DadosAluno {
 	
-	public static void main (String[] args) {
-		
+	ProcessoDeMatricula matricula;
+	String nome;
+	String cpf;
+	String email;
+	
+	String getNome() {
+		return nome;
 	}
 	
+	String getCpf() {
+		return cpf;
+	}
+	
+	String getEmail() {
+		return email;
+	}
 }

@@ -2,8 +2,17 @@ package lg2a2.luana.projetoSuap;
 
 public class SituacaoMatricula {
 	
-	public static void main (String[] args) {
+	String cpf;
+	
+	void aluno_novo() {
 		
 	}
 	
+	void aluno_cadastrado() {
+		
+	}
+	
+	void aluno_cadastrado_curso() {
+		
+	}
 }

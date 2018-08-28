@@ -7,4 +7,20 @@ public class Aluno {
 	String nome;
 	String email;
 	
+	String getProntuario() {
+		return prontuario;
+	}
+	
+	String getCpf() {
+		return cpf;
+	}
+	
+	String getNome() {
+		return nome;
+	}
+	
+	String getEmail() {
+		return email;
+	}
+	
 }
